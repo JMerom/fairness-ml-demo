@@ -1,4 +1,3 @@
-
 # Fairness Analysis on the Adult Census Dataset  
 
 <p align="center">
